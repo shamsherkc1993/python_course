@@ -39,7 +39,10 @@
 # else:
 #     print("num 4 is greater ", num4)
 
-print("002 branch")
+# print("002 branch")
+
+#all are now commented
+
 
 
 
